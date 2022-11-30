@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+      "title": "API - template",
+      "description": "Documentation for API template",
+      "version": "1.0.0",
+      "contact": {
+          "developed": "Kauê Guedes de Oliveira"
+      }
+  }
+
+}
