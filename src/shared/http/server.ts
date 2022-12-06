@@ -1,6 +1,6 @@
 import express, { NextFunction, Request, Response } from "express";
 import 'reflect-metadata';
-import '../../container';
+import '../tsyringe';
 import 'express-async-errors';
 import swaggerUI from 'swagger-ui-express';
 import swaggerFile from '../../swagger.json';

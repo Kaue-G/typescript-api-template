@@ -1,0 +1,30 @@
+{
+  "locadora" : {
+    "filmes": [
+      {
+        "nome": "Madagascar",
+        "anoDeCriacao": "2005",
+        "disponibilidade": true,
+        "genero": "comédia"
+       },
+       {
+        "nome": "Madagascar 2",
+        "anoDeCriacao": "2008",
+        "disponibilidade": true,
+        "genero": "comédia"
+       },
+       {
+        "nome": "Madagascar 3",
+        "anoDeCriacao": "2012",
+        "disponibilidade": true,
+        "genero": "comédia"
+       },
+       {
+        "nome": "Os Incriveis",
+        "anoDeCriacao": "2004",
+        "disponibilidade": true,
+        "genero": "comédia"
+       }
+    ]
+  }
+}
